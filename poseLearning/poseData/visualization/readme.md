@@ -1,0 +1,1 @@
+The 3D rotation in the html files is smoothest on Chrome browser.
